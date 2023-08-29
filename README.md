@@ -18,9 +18,15 @@
 ## Description
 This is a web-based text editor designed as a one-page application, accessible directly from your browser. The application meets Progressive Web App (PWA) criteria and incorporates a range of data persistence methods. These techniques provide backup solutions in case a particular option isn't compatible with the browser. Moreover, the application can be installed and is functional while offline, allowing usability regardless of your internet connection.
 
-## [>> View the live Application here ➡️](https://offline-code-editor-6a12c9d49a7b.herokuapp.com/)
+### [>> View the live Application here ➡️](https://offline-code-editor-6a12c9d49a7b.herokuapp.com/)
 
 ![screenshot](./client/src/images/screencapture-localhost-3000_Main.png)
+
+### Please remember to use Incognito mode!
+To ensure accurate testing of the offline features for this application, kindly consider using Google Chrome's incognito mode or alternatevely open a new "guest session" in your browser. This will help prevent any interference from cookies, cache, or browser history that might affect the app's performance. 
+
+![incognito](./client/src/images/Screenshot%202023-08-29%20154316.png)
+
 ## Features
 
 - Create and edit notes or code snippets with a user-friendly text editor.

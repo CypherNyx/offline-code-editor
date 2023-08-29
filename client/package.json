@@ -1,11 +1,11 @@
 {
-  "name": "JATE",
+  "name": "offline-code-editor",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
     "start": "webpack --watch"
   },
-  "author": "2U",
+  "author": "2U - DG",
   "license": "UNLICENSED",
   "devDependencies": {
     "@babel/core": "^7.15.0",

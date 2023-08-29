@@ -1,5 +1,5 @@
 {
-    "name": "JATE",
+    "name": "offline-code-editor",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -7,7 +7,7 @@
         "server": "nodemon server.js --ignore client"
     },
     "keywords": [],
-    "author": "",
+    "author": "2U - DG",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1"

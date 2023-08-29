@@ -1,6 +1,6 @@
 /* app shell CSS */
 :root {
-  --primary: #31a9e1;
+  --primary: #ff8181;
   --gray: #ececec;
   --whitesmoke: #f5f5f5;
   --dark: #222;
@@ -27,7 +27,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: white;
+  color: rgb(5, 0, 0);
   font-size: 22px;
   font-weight: 550;
   letter-spacing: 0.9px;
